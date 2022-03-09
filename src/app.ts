@@ -30,7 +30,7 @@ const person: TPerson = {
 }
 const persons: TPerson[] = [
     {id: 1, name:"Duc", age:21,status:true},
-    {id: 2, name:"Duc", age:20,status:true},
+    {id: 2, name:"Duc1", age:20,status:true},
 ]
 console.log(persons);
 
